@@ -1,0 +1,25 @@
+{
+	"Achievements": [
+		{
+			"name": "첫 실행",
+			"achiveIndex": "1",
+			"getDate": "0",
+			"description": "Penlight Dancing을 처음으로 실행했다!",
+			"lock": "False"
+		},
+    {
+      "name": "정창원",
+      "achiveIndex": "2",
+      "getDate": "0",
+      "description": "원숭이새끼",
+      "lock": "True"
+    },
+    {
+      "name": "유승지",
+      "achiveIndex": "1",
+      "getDate": "0",
+      "description": "존나게 신선한 가지다.",
+      "lock": "True"
+    }
+	]
+}
